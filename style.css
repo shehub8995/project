@@ -1,0 +1,35 @@
+body{background-color: rgb(59, 232, 232);margin: 20px;}
+body{color: rgba(28, 41, 83, 0.909);}
+table,th,td {border: 2px solid rgb(210, 69, 69);}
+div1 {background-color: rgb(255, 255, 255);
+font-style: italic;
+font-display: 38px;}
+h1{color: red}
+h2{color: rgb(84, 234, 8);}
+caption{background: rgb(227, 227, 220);
+    font-size: 20px;
+    border-radius: 5px;}
+table{border-style:inset;
+    background-color:rgb(183, 182, 218) ;
+    font-size: 20px; ;}
+body{background-image:url(sky.jpg);
+    background-repeat:no-repeat;
+    background-position: right top;
+    margin-right: 180px;
+    background-attachment:scroll;}
+ul{background-color: rgb(200, 180, 152);
+    font-size: 20px;
+    font-style:oblique;}
+ol{background-color: rgb(211, 166, 110);
+    font-size:25px;
+    font-style: italic;}
+div2{font-size: 20px;
+font-style: oblique;
+padding: 10px;
+position: relative;
+top: 20px;
+left: 200px;
+right: 200px;
+bottom: 50px;
+
+}
